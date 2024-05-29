@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. [Download](#download)
-2. [Introduction](#introduction)
-3. [Features](#features)
-4. [Installation](#installation)
+2. [Installation] (#installation)
+3. [Introduction](#introduction)
+4. [Features](#features)
 5. [Usage](#usage)
 6. [Model](#model)
 7. [Possible Errors and Fixes](#possible-errors-and-fixes)
@@ -23,6 +23,17 @@ Recommended: Documents or Desktop or any directories that have no security acces
 - Installer Size: 2.57 GB
 - Folder Size: 7.50 GB
 
+## Installation
+Notes:
+A terminal is shown to view any background processes such as downloading transfer models, matplotlib font cache building, training progress, etc.
+
+To install Neuron, follow these steps:
+1. Install the app with the installer.
+2. Right-click the directory of the app and then click 'Remove Access'.
+3. Click Remove Access option.
+4. Click Stop Sharing.
+
+
 ## Introduction
 Neuron is an educational application designed to provide an in-depth understanding of Convolutional Neural Networks (CNNs), a cornerstone of modern computer vision. This project focuses on building a CNN model using custom datasets and utilizes the PyTorch library for developing and training the CNN. By integrating the powerful and flexible PyTorch workflow with a user-friendly Tkinter GUI, Neuron offers hands-on experience with deep learning, making the complex process of building and understanding CNNs more accessible.
 
@@ -34,13 +45,6 @@ The GUI serves as an educational tool that demonstrates how CNNs work in real-ti
 - High Accuracy Pretrained Models (see notes)
 - Introductory PowerPoint Presentation
 - Data Visualization of Input and Output in Trainable Section
-
-## Installation
-To install Neuron, follow these steps:
-1. Install the app with the installer.
-2. Right-click the directory of the app and then click 'Remove Access'.
-3. Click Remove Access option.
-4. Click Stop Sharing.
 
 ## Usage
 After installing the application, you can use Neuron by following these steps:
