@@ -157,7 +157,7 @@ After installing the application, you can use Neuron by following these steps:
 3. **Model stuck at Loading**
      - Check Terminal to see if the model (EfficientNet Models) are currently downloading.
 
-Note: If you encounter any error please attach an image of the error as well as the name of the issue ins the "Issues" page of the repository.
+Note: If you encounter any error please attach an image of the error as well as the name of the issue inside the "Issues" page of the repository.
 
 ## Notes
 - Regarding the defense, the app failed to recognize images due to an unrecognized error. The unrecognized error was a misindented load model function which would fail to load the saved parameters of any model, thus would only give random parameters and predict the image randomly.
