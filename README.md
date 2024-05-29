@@ -147,6 +147,17 @@ After installing the application, you can use Neuron by following these steps:
 ## Possible Errors and Fixes
 1. **Module Errors when opening the app**
    - Install the required libraries listed in the requirements txt.
+  
+2. **PPT file won't open**
+   - Wait maybe for a few seconds or a minute and check terminal.
+   - If nothing happens, or an error 'not found' would appear folow these steps:
+   1. Open the app diretory, then copy the assets folder.
+   2. Paste the folder inside the "_internal/".
+
+3. **Model stuck at Loading**
+     - Check Terminal to see if the model (EfficientNet Models) are currently downloading.
+
+Note: If you encounter any error please attach an image of the error as well as the name of the issue ins the "Issues" page of the repository.
 
 ## Notes
 - Regarding the defense, the app failed to recognize images due to an unrecognized error. The unrecognized error was a misindented load model function which would fail to load the saved parameters of any model, thus would only give random parameters and predict the image randomly.
