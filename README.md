@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Download](#download)
-2. [Installation] (#installation)
+2. [Installation](#installation)
 3. [Introduction](#introduction)
 4. [Features](#features)
 5. [Usage](#usage)
