@@ -25,7 +25,8 @@ Recommended: Documents or Desktop or any directories that have no security acces
 
 ## Installation
 Notes:
-A terminal is shown to view any background processes such as downloading transfer models, matplotlib font cache building, training progress, etc.
+A terminal is shown to view any background processes such as downloading transfer models, matplotlib font cache building, training progress, etc. Also, opening the ppt
+file would sometimes take a long time.
 
 To install Neuron, follow these steps:
 1. Install the app with the installer.
