@@ -33,6 +33,7 @@ To install Neuron, follow these steps:
 2. Right-click the directory of the app and then click 'Remove Access'.
 3. Click Remove Access option.
 4. Click Stop Sharing.
+5. Install fonts at 'assets/font'
 
 
 ## Introduction
