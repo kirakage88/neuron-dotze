@@ -52,7 +52,7 @@ After installing the application, you can use Neuron by following these steps:
 - **Opening the app:** Opening the app can take a few seconds due to torch library initialization.
 
 ### Navigating the App
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/NcMr_HsuS0A](https://youtu.be/NcMr_HsuS0A)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/NcMr_HsuS0A" frameborder="0" allowfullscreen></iframe>
 
 
 
